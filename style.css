@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap');
+
+body {
+ 
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    background-color: #f8f9fa;
+}
+
+h4, #nrOfRecord  {
+    font-weight: 700;
+    margin-bottom: 5px; 
+}
+
+.note {
+    background-color: #fff;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+
+.btn-primary {
+    background-color: #0469b9;
+    font-weight: 300;
+}
+  
+.form-control {
+    border: none;
+    background-color: #f8f9fa;
+    padding: 0.7em 1.5em;
+}  
+
+a:hover {
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  
